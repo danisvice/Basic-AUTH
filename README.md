@@ -1,6 +1,6 @@
 # HTTP Request with Basic Authentication 🌐
 
-Welcome to the HTTP Request with Basic Authentication documentation! This guide introduces you to a Rust program that makes an HTTP GET request to a server with basic authentication. Whether you're a developer or simply curious, this program can be a valuable tool. Let's explore its features and usage! 🚀
+Welcome to the HTTP Request with Basic Authentication documentation! This guide introduces you to a Rust program that makes an HTTP GET request to a server with basic authentication. 🚀
 
 ## Table of Contents
 
